@@ -1,0 +1,7 @@
+vbs
+js
+bat
+cmd
+scr
+pif
+lnk
